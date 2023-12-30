@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xiamen-kug.github.io/sitemap.xml
